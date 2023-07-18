@@ -59,7 +59,7 @@ section {
   margin-top: 8rem;
 }
 
-section > h5 {
+h5 {
   text-align: center;
   color: var(--color-light);
 }
